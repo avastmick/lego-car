@@ -2,12 +2,13 @@
 
 1. Break the problem down
 2. Understand the parts
-3. 
+3. Write it up
 
 # Specification
 
 ## Phase One - Science Fair
- ☐ Built car - Technics Lego Pickup
+ ✔ Built car - Technics Lego Pickup @done (17-05-13 09:43)
+ ☐ Add motor
  ☐ Configured Raspberry Pi
  ☐ Forwards
  ☐ Back
@@ -20,11 +21,11 @@
 # Items required
 
 ## Phase One
- ☐ Raspberrypi board
- ☐ Power pack
- ☐ Motor
- ☐ Servo
- ☐ Cabling
+ ✔ Raspberrypi board @done (17-05-12 12:33)
+ ✔ Power pack @done (17-05-12 12:33)
+ ✔ Motor @done (17-05-12 12:33)
+ ✔ Servo @done (17-05-12 12:33)
+ ✔ Cabling @done (17-05-12 12:33)
 
 
 # Assembly
